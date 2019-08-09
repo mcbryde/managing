@@ -1,6 +1,8 @@
 # Hello!  I'm Mike
 Welcome!  This is a quick overview of what you can expect from me as a manager; how I think about management & work, general logistical stuff, and some random stuff about me.
 
+This is _not_ a full step-by-step of how I work and how to work with me; that's honestly constantly evolving (and honestly, different for each working relationship I have).  This is a quick start guide on the basics.
+
 The most important thing to know about the way I run teams is this: my job is to enable everyone in my team to (1) be successful and happy, and (2) be successful in the same direction.  Those are not always easy things to accomplish; but they are the ones that matter.
 
 ## On Management
@@ -32,11 +34,11 @@ Some details on how I think about management, in vague order:
 * **Time off:** I will tell you as soon as I know when I'll be taking time off.  I hope you'll do the same.
 * **Flextime:** You don't need to tell me (much less get my approval) if you're taking flextime (e.g. doctor's visits, long lunch with friends, etc.).  Just update your Slack status and do it.
 * **Heads down time:** My calendar tends to be busy, and yet I usually need some amount of time to dive into heads-down work.  So I usually set appointments for myself for "heads down" time, usually in the mornings when I'm fresh.  All I ask is that you ask before you schedule me for something then.
-* **Contacting me:** When I'm at my desk, Slack is the best way to ping me.  I may not respond immediately, but I will usually respond in the next hour or so.  Email is secondary, I usually check it twice a day.  When I'm away (either because of a conference, or after hours), Slack works, but send me a text message or just call me if it's critical.  If I'll be AFK for more than a day, I'll let everyone know on the calendar.
+* **Contacting me:** When I'm at my desk, Slack is the best way to ping me.  I may not respond immediately, but I will usually respond in the next hour or so.  Email is secondary, I usually check it twice a day.  When I'm away (either because of a conference, or after hours), Slack works, but send me a text message or just call me if it's critical.  If I'll be AFK for more than a day, I'll let everyone know in as many ways as I can as early as I can.
 * **Yes, I'm an introvert.**  I like people.  But I can sometimes hit my limit (it's very high), and will just quietly go away to recharge.  You probably won't see this anytime other than at a conference.
 
 ## The bad & the ugly
-* Everyone has shitty days sometimes; I'm no exception.  On those days, my failure state usually shows as extreme introversion and crankiness.  If we have meetings that day, I'll usually let you know.  I also tend to not make decisions that day, because I just want to burn the world down.
+* Everyone has shitty days sometimes; I'm no exception.  On those days, my failure state usually shows as extreme introversion and moderate crankiness.  If we are working together that day, I'll try to let you know.  I also tend to not make decisions that day, because I just want to burn the world down.
 * I try to stay organized, but things slip.  If you need me for something don't hesitate to ask again.  But remember, insanity is doing the same thing many times and expecting different results.  If Slack doesn't work, set a meeting, or call, or sms, or send me a singing telegram, or ... (you get the gist).
 * Pet peeves:
     1. Rudeness.
@@ -56,7 +58,7 @@ On an ongoing basis, I'm going to ask:
 1. If what you are doing is engaging you.
 2. What your overall status is.  Stressed?  Underworked?
 
-## Random stuff about me
+## Random stuff about me that aren't work related
 * I'm currently getting better at photography and playing the ukulele.
 * I devour books.  I should institute a 1 non-fiction to 1 scifi/fantasy rule, but I'd probably never keep it.
 * Also video games.  Single player RPGs are my jam.  Current favorite: Horizon Zero Dawn)
