@@ -33,7 +33,7 @@ Some details on how I think about management, in vague order:
 * **Flextime:** You don't need to tell me (much less get my approval) if you're taking flextime (e.g. doctor's visits, long lunch with friends, etc.).  Just update your Slack status and do it.
 * **Heads down time:** My calendar tends to be busy, and yet I usually need some amount of time to dive into heads-down work.  So I usually set appointments for myself for "heads down" time, usually in the mornings when I'm fresh.  All I ask is that you ask before you schedule me for something then.
 * **Contacting me:** When I'm at my desk, Slack is the best way to ping me.  I may not respond immediately, but I will usually respond in the next hour or so.  Email is secondary, I usually check it twice a day.  When I'm away (either because of a conference, or after hours), Slack works, but send me a text message or just call me if it's critical.  If I'll be AFK for more than a day, I'll let everyone know on the calendar.
-* **Yes, I'm an introvert.**  I like people.  But I can sometimes hit my limit (it's very high), and will just quietly go away to recharge.  You probably won't see this anytime other than Shark Week.
+* **Yes, I'm an introvert.**  I like people.  But I can sometimes hit my limit (it's very high), and will just quietly go away to recharge.  You probably won't see this anytime other than at a conference.
 
 ## The bad & the ugly
 * Everyone has shitty days sometimes; I'm no exception.  On those days, my failure state usually shows as extreme introversion and crankiness.  If we have meetings that day, I'll usually let you know.  I also tend to not make decisions that day, because I just want to burn the world down.
