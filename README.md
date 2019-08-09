@@ -31,7 +31,7 @@ Some details on how I think about management, in vague order:
 
 
 ## My Logistics
-* **Hours:** You can count on me being at my desk between 10am & 4pm (CDT) five days a week.  I will usually start earlier and/or go later, but I'll almost always be in during those times.  I don't particularly care when you work so long as your regular work hours don't interfere with you getting your work done.
+* **Hours:** You can count on me being at my desk between 10am & 4pm (CT) five days a week.  I will usually start earlier and/or go later, but I'll almost always be in during those times.  I don't particularly care when you work so long as your regular work hours don't interfere with you getting your work done.
 * **Time off:** I will tell you as soon as I know when I'll be taking time off.  I hope you'll do the same.
 * **Flextime:** You don't need to tell me (much less get my approval) if you're taking flextime (e.g. doctor's visits, long lunch with friends, etc.).  Just update your Slack status and do it.
 * **Heads down time:** My calendar tends to be busy, and yet I usually need some amount of time to dive into heads-down work.  So I usually set appointments for myself for "heads down" time, usually in the mornings when I'm fresh.  All I ask is that you ask before you schedule me for something then.
