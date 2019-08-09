@@ -20,7 +20,7 @@ Some details on how I think about management, in vague order:
     (I'm not great at doing small, regular "good job!" feedback.  That's on me to improve.)
 * **Career pathing** is having a discussion with you regularly on where you are professionally, where you want to be, and what I can do to help you get there.  We should have these talks at least once a quarter; I can have them more often (and informally) if you want.
 * **Soft skills** are at least as important as domain skills in any job; I would argue that they are _critical_ for security team members.  Our voices in any conversation come with a lot of weight because of our roles, and if we abuse that power we'll lose overall influence fast.  Aka: you are speaking for all of us, don't be a jerk.  In fact ...
-* **Don't Be A Jerk.**  Jerks will get the axe.
+* **Don't Be A Jerk.**  ~~Jerks will get the axe.~~ Jerk-ness will receive strong feedback that hopefully leads to behavior change.
     _(Note: Standing up for yourself is not being a jerk.  Delivering a strong opinion politely is not being a jerk.  Delivering a strong opinion rudely is.)_
 * **Burnout is bad mkay.** Burnout is a thing.  I don't want that.  You don't want that.  So let's not do that.
 
