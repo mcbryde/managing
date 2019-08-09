@@ -17,7 +17,7 @@ Some details on how I think about management, in vague order:
     
     (I'm not great at doing small, regular "good job!" feedback.  That's on me to improve.)
 * **Career pathing** is having a discussion with you regularly on where you are professionally, where you want to be, and what I can do to help you get there.  We should have these talks at least once a quarter; I can have them more often (and informally) if you want.
-* **Soft skills** are at least as important as domain skills in any job; I would argue that they are _critical_ for security team members.  Our voices in any conversation come with a lot of weight because of our roles, and if we abuse that power we'll lose overall influence fast.  Aka, you are speaking for all of us, don't be a jerk.  In fact ...
+* **Soft skills** are at least as important as domain skills in any job; I would argue that they are _critical_ for security team members.  Our voices in any conversation come with a lot of weight because of our roles, and if we abuse that power we'll lose overall influence fast.  Aka: you are speaking for all of us, don't be a jerk.  In fact ...
 * **Don't Be A Jerk.**  Jerks will get the axe.
     _(Note: Standing up for yourself is not being a jerk.  Delivering a strong opinion politely is not being a jerk.  Delivering a strong opinion rudely is.)_
 * **Burnout is bad mkay.** Burnout is a thing.  I don't want that.  You don't want that.  So let's not do that.
@@ -31,7 +31,7 @@ Some details on how I think about management, in vague order:
 * **Hours:** You can count on me being at my desk between 10am & 4pm (CDT) five days a week.  I will usually start earlier and/or go later, but I'll almost always be in during those times.  I don't particularly care when you work so long as your regular work hours don't interfere with you getting your work done.
 * **Time off:** I will tell you as soon as I know when I'll be taking time off.  I hope you'll do the same.
 * **Flextime:** You don't need to tell me (much less get my approval) if you're taking flextime (e.g. doctor's visits, long lunch with friends, etc.).  Just update your Slack status and do it.
-* **Heads down time:** My calendar tends to be busy, and yet I usually need some amount of time to dive into heads-down work.  So I usually set appointments for myself for "heads down" time, usually in the mornings when I'm fresh.  All I ask is that you ask before you schedule me for something then.  I tend to do small items immediately (rather than waiting and doing them later-think expense approvals).  I usually like to have meetings in the afternoon.
+* **Heads down time:** My calendar tends to be busy, and yet I usually need some amount of time to dive into heads-down work.  So I usually set appointments for myself for "heads down" time, usually in the mornings when I'm fresh.  All I ask is that you ask before you schedule me for something then.
 * **Contacting me:** When I'm at my desk, Slack is the best way to ping me.  I may not respond immediately, but I will usually respond in the next hour or so.  Email is secondary, I usually check it twice a day.  When I'm away (either because of a conference, or after hours), Slack works, but send me a text message or just call me if it's critical.  If I'll be AFK for more than a day, I'll let everyone know on the calendar.
 * **Yes, I'm an introvert.**  I like people.  But I can sometimes hit my limit (it's very high), and will just quietly go away to recharge.  You probably won't see this anytime other than Shark Week.
 
