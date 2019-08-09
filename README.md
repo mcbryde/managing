@@ -21,6 +21,7 @@ Some details on how I think about management, in vague order:
 * **Career pathing** is having a discussion with you regularly on where you are professionally, where you want to be, and what I can do to help you get there.  We should have these talks at least once a quarter; I can have them more often (and informally) if you want.
 * **Soft skills** are at least as important as domain skills in any job; I would argue that they are _critical_ for security team members.  Our voices in any conversation come with a lot of weight because of our roles, and if we abuse that power we'll lose overall influence fast.  Aka: you are speaking for all of us, don't be a jerk.  In fact ...
 * **Don't Be A Jerk.**  ~~Jerks will get the axe.~~ Jerk-ness will receive strong feedback that hopefully leads to behavior change.
+
     _(Note: Standing up for yourself is not being a jerk.  Delivering a strong opinion politely is not being a jerk.  Delivering a strong opinion rudely is.)_
 * **Burnout is bad mkay.** Burnout is a thing.  I don't want that.  You don't want that.  So let's not do that.
 
@@ -61,7 +62,7 @@ On an ongoing basis, I'm going to ask:
 ## Random stuff about me that aren't work related
 * I'm currently getting better at photography and playing the ukulele.
 * I devour books.  I should institute a 1 non-fiction to 1 scifi/fantasy rule, but I'd probably never keep it.
-* Also video games.  Single player RPGs are my jam.  Current favorite: Horizon Zero Dawn)
+* Also video games.  Single player RPGs are my jam.  (Current favorite: Horizon Zero Dawn)
 * Also board games.  My friends have had an every-other-Saturday group for ~10 years.  So ... yes.
 * Sailing is awesome!  Hard to keep up since I moved to San Antonio though, still working on that one.
 * Camping (backpacking) is awesome too, though again, harder in San Antonio.  Fun fact: I've spent at least 6 months of my life camping.
