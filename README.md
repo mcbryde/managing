@@ -1,14 +1,17 @@
-Welcome!  This is a quick overview of what you can expect from me as a manager; how I think about management & about work, pet peeves, and general logistical stuff.
+# Hello!  I'm Mike
+Welcome!  This is a quick overview of what you can expect from me as a manager; how I think about management & work, general logistical stuff, and some random stuff about me.
 
 The most important thing to know about the way I run teams is this: my job is to enable everyone in my team to (1) be successful and happy, and (2) be successful in the same direction.  Those are not always easy things to accomplish; but they are the ones that matter.
 
 ## On Management
 Some details on how I think about management, in vague order:
-* **1:1s** are your time to talk to me about whatever is on your mind.  Seriously, whatever you want to talk about is game.  In the past people have talked with me about project updates, life stuff, reminding me to approve expenses, career, compensation, dogs, video games, and the list goes on.  I try to have 30 minutes of 1:1 with every direct report each week, and more than that for new members of the team &/or folks that are remote.  1:1s are a priority; I may ask to move them around, but I only cancel if one of us is on PTO.
-* **Feedback** is something that (right now) I'm working at getting better at doing regularly.*  In an ideal world you would be getting small feedback regularly on what you are doing well and what didn't go so well (& what we can do to improve).  I value both equally--seriously, "bad" feedback isn't a formal performance review, it's just a "how can we do this better next time" conversation.  A decent metaphor is how we steer cars going down a road: constant small corrections rather than one huge "Crap I'm driving off the curve!" correction.  I'll always ask you if you are in a headspace to get feedback, both positive and negative.  Feel free to turn me down and delay--sometimes you're heads down on a project and don't want the interruption, sometimes life just sucks and it's a really bad time for "bad" feedback.  It doesn't matter, you can refuse it.
-  *I'm not great at doing small, regular "good job!" feedback.  That's on me to improve.*
+* **1:1s** are your time to talk to me about whatever is on your mind.  Seriously, whatever you want to talk about is game.  I try to have 30 minutes of 1:1 with every direct report each week, and more than that for new members of the team &/or folks that are remote.  1:1s are a priority; I may ask to move them around, but I only cancel if one of us is on PTO.
+* **Feedback** is something that (right now) I'm working at getting better at doing regularly.[^1]  In an ideal world you would be getting small feedback regularly on what you are doing well and what didn't go so well (& what we can do to improve).  I value both equally--seriously, "bad" feedback isn't a formal performance review, it's just a "how can we do this better next time" conversation.  
+    I'll always ask you if you are in a headspace to get feedback, both positive and negative.  Feel free to turn me down and delay--sometimes you're heads down on a project and don't want the interruption, sometimes life just sucks and it's a really bad time for "bad" feedback. 
+    [^1]: I'm not great at doing small, regular "good job!" feedback.  That's on me to improve.
 * **Career pathing** is having a discussion with you regularly on where you are professionally, where you want to be, and what I can do to help you get there.  We should have these talks at least once a quarter; I can have them more often (and informally) if you want.
 * **Performance Reviews** happen to the best of us.  :)  This is the formal "how did you do this year" conversation that is tied to raises, promotions, bonuses, etc.  _Your performance review results should never be a surprise.  If they are, I've failed._  You should always have a pretty good sense of how you are doing; if you don't, ask, and we can discuss it anytime. 
+
     At DigitalOcean, there are a few parts to the performance review.  The first is a 3-question evaluation from your peers, yourself, and your manager(s)—what you did well, what you can do differently to help, and open feedback.  We take these results, plus our own responses and evaluate you based on performance (how well you did) and potential (how well we think you can do in the future).
 * I tend to give my people a lot of freedom; that freedom comes with responsibility.  I expect you to function without me.  (Understanding, of course, that more senior people get a lot more rope.)  You are here to do good work.  I am here to enable you, and make sure your work fits our overall team & company goals.
     As a corollary to above, if you're about to do something that you are unsure about, and you can't contact me or another person on the team to run it by, just use your best judgement and make the call.  I will never criticize you for that.
@@ -45,7 +48,7 @@ Some details on how I think about management, in vague order:
 * Sailing is awesome!  Hard to keep up since I moved to San Antonio though, still working on that one.
 * Camping (backpacking) is awesome too, though again, harder in San Antonio.  Fun fact: I've spent at least 6 months of my life camping.
 
-# What I want to know about you
+## What I want to know about you
 When we get started (probably at our first meeting) I'll want to know:
 1. What you want to be doing.  What gets you engaged?  Excited to work?
 2. How you take feedback, privately and publicly, good and bad.
