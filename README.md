@@ -25,7 +25,7 @@ Some details on how I think about management, in vague order:
     _(Note: Standing up for yourself is not being a jerk.  Delivering a strong opinion politely is not being a jerk.  Delivering a strong opinion rudely is.)_
 * **Burnout is bad mkay.** Burnout is a thing.  I don't want that.  You don't want that.  So let's not do that.
 
-    Please, work a 40 hour week, take the time off you need to recharge, and don't work more than a 45-50 hour week without telling me (I'll probably tell you to take a long weekend or something).  We have unlimited PTO in the US and a mandated minimum 25 in Canada.  I don't track time off for myself or any of my reports, other than to urge everyone to take at least 3-4 weeks off a year.
+    Please, work a 40 hour week, take the time off you need to recharge, and don't work more than a 45-50 hour week without telling me (I'll probably tell you to take a long weekend or something).  We have unlimited PTO.  I don't track time off for myself or any of my reports, other than to urge everyone to take at least 3-4 weeks off a year.
     
     There's a lot of business-sponsored research out there indicating that people's overall productivity goes way down when they work more than 40 hours per week.  You can borrow from the future to get work done now, but if you don't recover from it you and your work will suffer.
 
@@ -39,7 +39,7 @@ Some details on how I think about management, in vague order:
 * **Yes, I'm an introvert.**  I like people.  But I can sometimes hit my limit (it's very high), and will just quietly go away to recharge.  You probably won't see this anytime other than at a conference.
 
 ## The bad & the ugly
-* Everyone has shitty days sometimes; I'm no exception.  On those days, my failure state usually shows as extreme introversion and moderate crankiness.  If we are working together that day, I'll try to let you know.  I also tend to not make decisions that day, because I just want to burn the world down.
+* Everyone has shitty days sometimes; I'm no exception.  On those days, my failure state usually shows as extreme introversion and moderate crankiness.  If we are working together that day, I'll try to let you know.  I also try to not make decisions that day, because I just want to burn the world down.
 * I try to stay organized, but things slip.  If you need me for something don't hesitate to ask again.  But remember, insanity is doing the same thing many times and expecting different results.  If Slack doesn't work, set a meeting, or call, or sms, or send me a singing telegram, or ... (you get the gist).
 * Pet peeves:
     1. Rudeness.
@@ -60,9 +60,8 @@ On an ongoing basis, I'm going to ask:
 2. What your overall status is.  Stressed?  Underworked?
 
 ## Random stuff about me that aren't work related
-* I'm currently getting better at photography and playing the ukulele.
+* I'm currently getting better at woodworking, toddler-raising, and I still happily suck at playing the ukulele (but that doesn't stop me).
 * I devour books.  I should institute a 1 non-fiction to 1 scifi/fantasy rule, but I'd probably never keep it.
 * Also video games.  Single player RPGs are my jam.  (Current favorite: Horizon Zero Dawn)
 * Also board games.  My friends have had an every-other-Saturday group for ~10 years.  So ... yes.
-* Sailing is awesome!  Hard to keep up since I moved to San Antonio though, still working on that one.
-* Camping (backpacking) is awesome too, though again, harder in San Antonio.  Fun fact: I've spent at least 6 months of my life camping.
+* Camping (backpacking) is awesome, though harder in San Antonio during Covid.  Fun fact: I've spent at least 6 months of my life camping.
