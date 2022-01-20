@@ -39,7 +39,7 @@ Some details on how I think about management, in vague order:
 * **Yes, I'm an introvert.**  I like people.  But I can sometimes hit my limit (it's very high), and will just quietly go away to recharge.  You probably won't see this anytime other than at a conference.
 
 ## The bad & the ugly
-* Everyone has shitty days sometimes; I'm no exception.  On those days, my failure state usually shows as extreme introversion and moderate crankiness.  If we are working together that day, I'll try to let you know.  I also try to not make decisions that day, because I just want to burn the world down.
+* Everyone has shitty days sometimes; I'm no exception.  On those days, my failure state usually shows as extreme introversion and moderate crankiness (my partner says you'll recognize my crankiness when I'm terse, to the point, and have a very flat affect).  If we are working together that day, I'll try to let you know.  I also try to not make decisions that day, because I just want to burn the world down.
 * I try to stay organized, but things slip.  If you need me for something don't hesitate to ask again.  But remember, insanity is doing the same thing many times and expecting different results.  If Slack doesn't work, set a meeting, or call, or sms, or send me a singing telegram, or ... (you get the gist).
 * Pet peeves:
     1. Rudeness.
