@@ -17,7 +17,7 @@ Some details on how I think about management, in vague order:
     
     Assuming I've done feedback right, your performance review shouldn't be a surprise.
     
-    (I'm not great at doing small, regular "good job!" feedback.  That's on me to improve.)
+    (I'm getting better at doing small, regular "good job!" feedback.  That's an area I'm still improving.)
 * **Career pathing** is having a discussion with you regularly on where you are professionally, where you want to be, and what I can do to help you get there.  We should have these talks at least once a quarter; I can have them more often (and informally) if you want.
 * **Soft skills** are at least as important as domain skills in any job; I would argue that they are _critical_ for security team members.  Our voices in any conversation come with a lot of weight because of our roles, and if we abuse that power we'll lose overall influence fast.  Aka: you are speaking for all of us, don't be a jerk.  In fact ...
 * **Don't Be A Jerk.**  ~~Jerks will get the axe.~~ Jerk-ness will receive strong feedback that hopefully leads to behavior change.
@@ -25,17 +25,17 @@ Some details on how I think about management, in vague order:
     _(Note: Standing up for yourself is not being a jerk.  Delivering a strong opinion politely is not being a jerk.  Delivering a strong opinion rudely is.)_
 * **Burnout is bad mkay.** Burnout is a thing.  I don't want that.  You don't want that.  So let's not do that.
 
-    Please, work a 40 hour week, take the time off you need to recharge, and don't work more than a 45-50 hour week without telling me (I'll probably tell you to take a long weekend or something).  We have unlimited PTO.  I don't track time off for myself or any of my reports, other than to urge everyone to take at least 3-4 weeks off a year.
+    Please, work a reasonable week, take the time off you need to recharge, and don't work more than a 45-50 hour week without telling me (I'll probably tell you to take a long weekend or something).  We have unlimited PTO.  I don't track time off for myself or any of my reports, other than to urge everyone to take at least 3-4 weeks off a year.
     
     There's a lot of business-sponsored research out there indicating that people's overall productivity goes way down when they work more than 40 hours per week.  You can borrow from the future to get work done now, but if you don't recover from it you and your work will suffer.
 
 
 ## My Logistics
-* **Hours:** You can count on me being at my desk between 10am & 4pm (CT) five days a week.  I will usually start earlier and/or go later, but I'll almost always be in during those times.  I don't particularly care when you work so long as your regular work hours don't interfere with you getting your work done.
-* **Time off:** I will tell you as soon as I know when I'll be taking time off.  I hope you'll do the same.
+* **Hours:** You can count on me being at my desk between 9am & 4pm (CT) five days a week.  I usually start earlier and/or go later, but I'll almost always be in during those times.  I don't particularly care when you work so long as your regular work hours don't interfere with you getting your work done.
+* **Time off:** I will tell you as soon as I know when I'll be taking time off.  I hope you'll do the same.  A good rule of thumb is 3x the duration of the PTO; for example, please tell me at least 6 weeks in advance of a 2 week vacation.
 * **Flextime:** You don't need to tell me (much less get my approval) if you're taking flextime (e.g. doctor's visits, long lunch with friends, etc.).  Just update your Slack status and do it.
 * **Heads down time:** My calendar tends to be busy, and yet I usually need some amount of time to dive into heads-down work.  So I usually set appointments for myself for "heads down" time, usually in the mornings when I'm fresh.  All I ask is that you ask before you schedule me for something then.
-* **Contacting me:** When I'm at my desk, Slack is the best way to ping me.  I may not respond immediately, but I will usually respond in the next hour or so.  Email is secondary, I usually check it twice a day.  When I'm away (either because of a conference, or after hours), Slack works, but send me a text message or just call me if it's critical.  If I'll be AFK for more than a day, I'll let everyone know in as many ways as I can as early as I can.
+* **Contacting me:** When I'm at my desk, Slack is the best way to ping me.  I may not respond immediately, but I will usually respond in the next half hour or so.  Email is secondary, I usually check it regularly but it can be as little as twice a day.  When I'm away (either because of a conference, or after hours), Slack works, but send me a text message or just call or page me if it's critical.  If I'll be AFK for more than a day, I'll let everyone know in as many ways as I can as early as I can.
 * **Yes, I'm an introvert.**  I like people.  But I can sometimes hit my limit (it's very high), and will just quietly go away to recharge.  You probably won't see this anytime other than at a conference.
 
 ## The bad & the ugly
@@ -45,7 +45,7 @@ Some details on how I think about management, in vague order:
     1. Rudeness.
     2. Not telling me when you've made a mistake (we all make them; but I can't help you deal with a problem I don't know about).
     3. Failing to help others when it's not a burden to you.  I get not lending a hand when it impacts other things, but not helping others for no good reason is annoying.
-    4. "Utilize."  The word is pointless.  Just use "use".
+    4. "Utilize."  The word is pointless.  Just say "use".
 
 ## What I want to know about you
 When we get started (probably at our first meeting) I'll want to know:
@@ -59,9 +59,9 @@ On an ongoing basis, I'm going to ask:
 1. If what you are doing is engaging you.
 2. What your overall status is.  Stressed?  Underworked?
 
-## Random stuff about me that aren't work related
-* I'm currently getting better at woodworking, toddler-raising, and I still happily suck at playing the ukulele (but that doesn't stop me).
+## Random stuff about me that isn't work related
+* I'm currently getting better at woodworking, kid-raising, and I still happily suck at playing the ukulele.
 * I devour books.  I should institute a 1 non-fiction to 1 scifi/fantasy rule, but I'd probably never keep it.
-* Also video games.  Single player RPGs are my jam.  (Current favorite: Horizon Zero Dawn)
-* Also board games.  My friends have had an every-other-Saturday group for ~10 years.  So ... yes.
-* Camping (backpacking) is awesome, though harder in San Antonio during Covid.  Fun fact: I've spent at least 6 months of my life camping.
+* Also video games.  Single player RPGs are my jam.  (Current favorite: Horizon Forbidden West)
+* Also board games.  My friends have had an every-other-Saturday group for ~15 years.  So ... yes.
+* Camping (backpacking) is awesome, though harder in San Antonio and harder with a pre-schooler.  Fun fact: I've spent at least 6 months of my life camping.
