@@ -1,5 +1,5 @@
 # Hello!  I'm Mike
-Welcome!  This is a quick overview of what you can expect from me as a manager; how I think about management & work, general logistical stuff, and some random stuff about me.
+Welcome!  This is a quick overview of what you can expect from me as your manager; how I think about management & work, general logistical stuff, and some random stuff about me.
 
 This is _not_ a full step-by-step of how I work and how to work with me; that's constantly evolving (and different for each working relationship I have).  This is a quick start guide on the basics.
 
